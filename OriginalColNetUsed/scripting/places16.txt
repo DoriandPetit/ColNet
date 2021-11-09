@@ -1,0 +1,16 @@
+art_gallery
+bridge
+building_facade
+castle
+cottage
+forest-broadleaf
+formal_garden
+house
+library-indoor
+mountain
+museum-indoor
+office
+palace
+park
+pond
+sky
